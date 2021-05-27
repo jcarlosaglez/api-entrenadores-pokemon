@@ -1,0 +1,109 @@
+[
+	{
+		"id": 1,
+		"nombre": "Ash Ketchup",
+		"region": "Kanto",
+		"pokemon": [
+			"Pikachu",
+			"Charmander",
+			"Squirtle"
+		]
+	},
+	{
+		"id": 2,
+		"nombre": "Misty",
+		"region": "Kanto",
+		"pokemon": [
+			"Staryu",
+			"Psyduck",
+			"Politoed"
+		]
+	},
+	{
+		"id": 3,
+		"nombre": "Brock",
+		"region": "Kanto",
+		"pokemon": [
+			"Steelix",
+			"Geodude",
+			"Crobat"
+		]
+	},
+	{
+		"id": 4,
+		"nombre": "Tracey Sketchit",
+		"region": "Archipiélago Naranja",
+		"pokemon": [
+			"Venonat",
+			"Marill",
+			"Scyther"
+		]
+	},
+	{
+		"id": 5,
+		"nombre": "Max",
+		"region": "Ciudad Petalia",
+		"pokemon": [
+			"Poliwag",
+			"Corphish",
+			"Munchlax"
+		]
+	},
+	{
+		"id": 6,
+		"nombre": "May/Aura",
+		"region": "Hoenn",
+		"pokemon": [
+			"Blaziken",
+			"Beautifly",
+			"Venusaur",
+			"Munchlax",
+			"Wartortle",
+			"Glaceon",
+			"Skitty"
+		]
+	},
+	{
+		"id": 7,
+		"nombre": "Dawn/Maya",
+		"region": "Sinnoh",
+		"pokemon": [
+			"Piplup",
+			"Buneary",
+			"Mamoswine",
+			"Togekiss",
+			"Quilava",
+			"Pachirisu"
+		]
+	},
+	{
+		"id": 8,
+		"nombre": "Serena",
+		"region": "Kalos",
+		"pokemon": [
+			"Braixen",
+			"Pancham",
+			"Sylveon"
+		]
+	},
+	{
+		"id": 9,
+		"nombre": "Clemont/Lem",
+		"region": "Kalos",
+		"pokemon": [
+			"Bunnelby",
+			"Chespin",
+			"Luxray"
+		]
+	},
+	{
+		"id": 10,
+		"nombre": "Kiawe",
+		"region": "Alola",
+		"pokemon": [
+			"Turtonator",
+			"Marowak",
+			"Charizard"
+		]
+	},
+]
